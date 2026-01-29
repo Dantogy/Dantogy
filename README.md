@@ -29,39 +29,21 @@ Former <b>Executive Assistant</b> transformed into a <b>Full-Stack Developer</b>
 
 ## ⚡ The Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-  </tr>
-</table>
+### 🎨 Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,html,css" />
 
+<br/>
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=spring,django,java,python,supabase,postgres,mysql,mongodb,postman" />
+<br/>
+
+### 🤖 Automation & Tools
+<br/>
 <img src="https://img.shields.io/badge/n8n-Automation-FF655A?style=for-the-badge&logo=n8n&logoColor=white">
 <img src="https://img.shields.io/badge/GoHighLevel-CRM-157AF6?style=for-the-badge&logo=checkmarx&logoColor=white">
 <img src="https://img.shields.io/badge/Web_Scraping-Data-EF3B2D?style=for-the-badge&logo=python&logoColor=white">
-
+<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=white">
 <br/>
 <br/>
 
