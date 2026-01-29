@@ -56,4 +56,4 @@ I bridge the gap between creative **UI Development** and powerful **Business Aut
 | Platform | Link |
 | :--- | :--- |
 | **Email** | [dantogy70@gmail.com](mailto:dantogy70@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/your-profile](https://linkedin.com) |
+| **LinkedIn** | [linkedin.com/in/dante-ygot-1a7203369](https://linkedin.com) |
